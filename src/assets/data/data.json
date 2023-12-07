@@ -74,7 +74,7 @@
     },
     {
         "game": "Spaceman",
-        "vip": false,
+        "vip": true,
         "profit": 11150,
         "analyst": ["Lucca N.", "Paty O."],
         "onlinePlayers": 101,
@@ -134,7 +134,7 @@
     },
     {
         "game": "FortuneRabbit",
-        "vip": false,
+        "vip": true,
         "profit": 17894,
         "analyst": ["Marcelo J.", "Beatriz K."],
         "onlinePlayers": 199,
@@ -170,7 +170,7 @@
     },
     {
         "game": "BacBo",
-        "vip": true,
+        "vip": false,
         "profit": 26910,
         "analyst": ["Ícaro S.", "Lilian R."],
         "onlinePlayers": 178,
@@ -194,7 +194,7 @@
     },
     {
         "game": "FootballStudio",
-        "vip": true,
+        "vip": false,
         "profit": 27890,
         "analyst": ["Amin A.", "Anthony L."],
         "onlinePlayers": 191,

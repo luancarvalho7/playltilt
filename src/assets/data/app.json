@@ -1,23 +1,19 @@
 {
-    "logo": "https://i.postimg.cc/VN7YvjP1/Logo.webp",
-    "affLink": "",
+    "logo": "https://i.postimg.cc/8c5WFZCt/LOGO-PLAYTILT-S-FUNDO.png",
+    "affLink": "https://www.bettilt381.com/pt/casino?partner=p5524p22649p786b#registration-bonus",
     "vipCheckout": " ",
-
     "banners": {
-        "img2k": "https://i.postimg.cc/vm8YG0j3/2k.webp",
-        "imgcommunity": "https://i.postimg.cc/jdVRDxmW/Community.webp",
-        "imgvip": "https://i.postimg.cc/KjTF0wkv/VIP.webp"
+        "img2k": "https://i.postimg.cc/4NHXL92Y/2k.webp",
+        "imgcommunity": "https://i.postimg.cc/RZc49zB9/community.webp",
+        "imgvip": "https://i.postimg.cc/Z5k415XV/vip.webp"
     },
-
-
     "pageheaderes": {
         "bonus": "https://i.postimg.cc/L6z2LdFx/bg-zero-One.webp",
         "lives": "https://i.postimg.cc/zDHJDbtZ/bg-Zero-Two.webp"
     },
-
-    "vipcta":"https://i.postimg.cc/pT4RYRd6/ctavip.webp",
-    "telegram": "",
-    "community": "",
+    "vipcta": "https://i.postimg.cc/pT4RYRd6/ctavip.webp",
+    "telegram": "https://t.me/hackdasminaspt",
+    "community": "https://t.me/hackdasminaspt",
     "memberArea": [
         {
             "title": "",
